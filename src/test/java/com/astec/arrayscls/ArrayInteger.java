@@ -3,6 +3,7 @@ package com.astec.arrayscls;
 public class ArrayInteger {
 
 	public static void main(String[] args) {
+		//Edited in ArrayInteger Java
 		// TODO Auto-generated method stub
 
 		//Array- To store multiple homogeneous elements
